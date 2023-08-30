@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 
-[法國國民役制度探討及考究](/files/rapport_service_national_francais.pdf)
+[法國國民役制度探討及考究 À propos du Service National Universel en France](/files/rapport_service_national_francais.pdf)
