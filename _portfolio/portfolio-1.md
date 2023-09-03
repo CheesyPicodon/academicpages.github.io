@@ -1,6 +1,6 @@
 ---
 title: "Investigative research on Service National Universel in France (in mandarin)"
-excerpt: "During my mandatory civil service, i conduct a study on the General National Service in France<br/><img src='/images/logo_snu.png'>"
+excerpt: "During my mandatory civil service, i conduct a study on the General National Service in France<br/><img src='/images/logo_snu.png' width='540'>"
 collection: portfolio
 ---
 
