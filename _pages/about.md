@@ -9,16 +9,19 @@ redirect_from:
 ---
 
 I received my Ph.D. in Mathematics and Applied Mathematics from Institut Camille Jordan, University of Lyon. My manuscript can be found [here](/files/manuscrit_chih-kang_huang.pdf)
-My thesis supervisers are Olivier Druet (CNRS) and Simon Masnou (Institut Camille Jordan).
+My thesis supervisers are [Olivier Druet](http://math.univ-lyon1.fr/homes-www/druet/) (CNRS) and [Simon Masnou](http://math.univ-lyon1.fr/homes-www/masnou/) (Institut Camille Jordan).
 
 I just finish my mandatory military and civil service in July 2023. I am currently open to research-driven positions in Data Science or Quantitative Research.
 
-Research themes
+Hard Skills
 ======
 
-* Partial differential equations
-* Numerical Simulations
-* Geometric Analysis 
+* **Mathematics** Partial Differential Equations in Mathematical Modeling, Numerical Simulations, Calculus of Variations, Geometric Analysis 
+* **Programming** Python (numpy, scikit-learn, keras/Tensorflow, Pytorch), C++, R, MatLab, Ocaml, Bash 
+* **Tools** Latex, Office, Git
+* **Cloud** Heroku, Fly.io, Google Collab
+* **OS** Linux, Windows, macOS 
+* **Virtualization** docker, podman
 
 
 
