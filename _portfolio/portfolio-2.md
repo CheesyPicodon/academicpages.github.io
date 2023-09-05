@@ -1,8 +1,9 @@
 ---
-title: "How to determinate if two real estates correspond to the same property ?"
-excerpt: "This is a personal project using classic methods and NLP models to group the real estate listings related to the same property. Indeed, several professionals (or even individuals) publish listings on multiple real estate portals for the same property"
+title: "Investigative research on Service National Universel in France (in mandarin)"
+excerpt: 
 collection: portfolio
 ---
 
+"During my mandatory civil service, i conduct a study on the General National Service in France<br/><img src='/images/logo_snu.png' width='500'>"
 
-[Real_estates](/files/real_estate_Chih-Kang_HUANG.ipynb)
+[法國國民役制度探討及考究 À propos du Service National Universel en France](/files/rapport_service_national_francais.tex)
