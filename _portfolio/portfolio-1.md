@@ -1,6 +1,6 @@
 ---
 title: "How to determinate if two real estates correspond to the same property ?"
-excerpt: 
+excerpt: ""
 collection: portfolio
 ---
 
