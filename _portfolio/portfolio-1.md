@@ -1,6 +1,6 @@
 ---
 title: "How to determinate if two real estates correspond to the same property ?"
-excerpt: ""
+excerpt: "Use classic method and CrossEncoder to group real estate listings related to the same property"
 collection: portfolio
 ---
 
