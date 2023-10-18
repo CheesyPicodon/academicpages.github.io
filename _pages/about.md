@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. in Mathematics and Applied Mathematics from Institut Camille Jordan, University of Lyon. My manuscript can be found [here](/files/manuscrit_chih-kang_huang.pdf)
+I received my Ph.D. in Mathematics and Applied Mathematics from Institut Camille Jordan, University of Lyon. My manuscript can be found [here](/files/manuscrit_chih-kang_huang.pdf). 
 My thesis supervisers are [Olivier Druet](http://math.univ-lyon1.fr/homes-www/druet/) (CNRS) and [Simon Masnou](http://math.univ-lyon1.fr/homes-www/masnou/) (Institut Camille Jordan).
 
 I just finish my mandatory military and civil service in July 2023. I am currently open to research-driven positions in Data Science/Machine Learning or Quantitative Research.
@@ -16,10 +16,11 @@ I just finish my mandatory military and civil service in July 2023. I am current
 Hard Skills
 ======
 
-* **Mathematics** Partial Differential Equations in Mathematical Modeling, Numerical Simulations, Calculus of Variations, Geometric Analysis 
-* **Programming** Python (Numpy, Scikit-learn, Pytorch, keras, ...), C++, R, MatLab
-* **Tools** Latex, Office, Git, Bash **Cloud** Heroku, Fly.io, Google Collab
-* **OS** Linux, Windows, macOS **Virtualization** docker, podman
+* **Mathematics :** Partial Differential Equations in Mathematical Modeling, Numerical Simulations, Optimization, Calculus of Variations, Geometric Analysis 
+* **Programming :** Python (Numpy, Scikit-learn, Pytorch, keras, ...), C++, R, MatLab
+* **Tools :** Latex, Office, Git, Bash **Cloud :** Heroku, Fly.io, Google Collab
+* **OS :** Linux, Windows, macOS **Virtualization :** docker, podman
+
 
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
