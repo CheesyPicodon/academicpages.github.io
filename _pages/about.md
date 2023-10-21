@@ -18,8 +18,8 @@ Hard Skills
 
 * **Mathematics :** Partial Differential Equations in Mathematical Modeling, Numerical Simulations, Optimization, Calculus of Variations, Geometric Analysis 
 * **Programming :** Python (Numpy, Scikit-learn, Pytorch, keras, ...), C++, R, MatLab
-* **Tools :** Latex, Office, Git, Bash **Cloud :** Heroku, Fly.io, Google Collab
-* **OS :** Linux, Windows, macOS **Virtualization :** docker, podman
+* **Tools :** Latex, Office, Git, Bash  **Cloud :** Heroku, Fly.io, Google Collab
+* **OS :** Linux, Windows, macOS  **Virtualization :** docker, podman
 
 Publications
 ======
