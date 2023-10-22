@@ -8,35 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-[**French version**](/files/about_fr.md)
+[**Version anglaise**](/files/about.md)
 
-I received my Ph.D. in Mathematics and Applied Mathematics from Institut Camille Jordan, University of Lyon. My manuscript can be found [here](/files/manuscrit_chih-kang_huang.pdf). 
-My thesis supervisers are [Olivier Druet](http://math.univ-lyon1.fr/homes-www/druet/) (CNRS) and [Simon Masnou](http://math.univ-lyon1.fr/homes-www/masnou/) (Institut Camille Jordan).
+J'ai soutenu ma thèse en mathématiques appliquées à l'Institut Camille Jordan, Université de Lyon. Mon manuscrit de thèse se trouve [ici](/files/manuscrit_chih-kang_huang.pdf). 
+Mes directeurs de thèse sont [Olivier Druet](http://math.univ-lyon1.fr/homes-www/druet/) (CNRS) et [Simon Masnou](http://math.univ-lyon1.fr/homes-www/masnou/) (Institut Camille Jordan).
 
-I just finished my mandatory military and civil service in July 2023. I am currently open to research-driven positions in Data Science/Machine Learning or Quantitative Research.
+Je viens de terminer mon service civil obligatoire à Taïwan en juillet 2023. Je suis actuellement à la recherche d'un emploi en Science des données/Apprentissage Automatique ou/et en Finance Quantitative.
+<!-- I just finished my mandatory military and civil service in July 2023. I am currently open to research-driven positions in Data Science/Machine Learning or Quantitative Research. -->
 
-Hard Skills
+Compétences Professionnelles
 ======
 
-* **Mathematics :** Partial Differential Equations in Mathematical Modeling, Numerical Simulations, Optimization, Calculus of Variations, Geometric Analysis 
-* **Programming :** Python (Numpy, Scikit-learn, Pytorch, keras, ...), C++, R, MatLab
-* **Tools :** Latex, Office, Git, Bash  **Cloud :** Heroku, Fly.io, Google Collab
-* **OS :** Linux, Windows, macOS  **Virtualization :** docker, podman
+* **Mathematiques :** Analyse et Modélisations des EDPs, Simulations Numériques, Optimisation, Calculs des variations, Analyse Géométrique 
+* **Programmation :** Python (Numpy, Scikit-learn, Pytorch, keras, ...), C++, R, MatLab
+* **Outils :** Latex, Office, Git, Bash  **Cloud :** Heroku, Fly.io, Google Collab
+* **OS :** Linux, Windows, macOS  **Virtualisation :** docker, podman
 
 Publications
 ======
-* A thickness-aware Allen-Cahn equation for the mean curvature flow of thin structures, with E. Bretin and S. Masnou
-* Asymptotic Analysis of embedded Willmore spheres in 3-dimensional manifolds, in preparation
+* A thickness-aware Allen-Cahn equation for the mean curvature flow of thin structures, avec E. Bretin et S. Masnou
+* Asymptotic Analysis of embedded Willmore spheres in 3-dimensional manifolds, en préparation
 
-Transversal Projects in Data Science and Machine Learning
+
+Projets Transverses en Data Science et Machine Learning
 ======
-* [How to determinate if two real estates correspond to the same](/files/real_estate_Chih-Kang_HUANG.ipynb)
-* [Physic-Informed Neural Networks to solve PDEs](/files/PINNs_black-scholes.ipynb)
-* [Chatbot for automated meal order collection](https://github.com/CheesyPicodon/nca-linebot)
-
-
-
-
+* [Regroupement des annonces immobilières](/files/real_estate_Chih-Kang_HUANG.ipynb)
+* [Résolution des EDPs à l'aide des réseaux de neurones PINNs](/files/PINNs_black-scholes.ipynb)
+* [Chatbot pour la commande automatique de repas](https://github.com/CheesyPicodon/nca-linebot)
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
 
 <!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
