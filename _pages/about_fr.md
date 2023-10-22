@@ -8,7 +8,7 @@ redirect_from:
   - /about_fr.html
 ---
 
-[**Version anglaise**](/_pages/about.html)
+[**English Version**](/about/about.html)
 
 J'ai soutenu ma thèse en mathématiques appliquées à l'Institut Camille Jordan, Université de Lyon. Mon manuscrit de thèse se trouve [ici](/files/manuscrit_chih-kang_huang.pdf). 
 Mes directeurs de thèse sont [Olivier Druet](http://math.univ-lyon1.fr/homes-www/druet/) (CNRS) et [Simon Masnou](http://math.univ-lyon1.fr/homes-www/masnou/) (Institut Camille Jordan).

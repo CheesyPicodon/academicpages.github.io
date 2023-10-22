@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[**French version**](/_pages/about_fr.html)
+[**Version française**](/about/about_fr.html)
 
 I received my Ph.D. in Mathematics and Applied Mathematics from Institut Camille Jordan, University of Lyon. My manuscript can be found [here](/files/manuscrit_chih-kang_huang.pdf). 
 My thesis supervisers are [Olivier Druet](http://math.univ-lyon1.fr/homes-www/druet/) (CNRS) and [Simon Masnou](http://math.univ-lyon1.fr/homes-www/masnou/) (Institut Camille Jordan).
