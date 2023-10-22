@@ -5,10 +5,10 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about_fr.html
 ---
 
-[**Version anglaise**](/files/about.md)
+[**Version anglaise**](/_pages/about.md)
 
 J'ai soutenu ma thèse en mathématiques appliquées à l'Institut Camille Jordan, Université de Lyon. Mon manuscrit de thèse se trouve [ici](/files/manuscrit_chih-kang_huang.pdf). 
 Mes directeurs de thèse sont [Olivier Druet](http://math.univ-lyon1.fr/homes-www/druet/) (CNRS) et [Simon Masnou](http://math.univ-lyon1.fr/homes-www/masnou/) (Institut Camille Jordan).
