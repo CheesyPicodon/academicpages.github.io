@@ -4,8 +4,8 @@ title: "Chih-Kang HUANG"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /index_fr/
-  - /index_fr.html
+  - /french/
+  - /french.html
 ---
 
 [**English Version**](/about/)
