@@ -12,8 +12,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Version française"
-    url: /french/
+  # - title: "Version française"
+    # url: /french/
   # - title: "Blog Posts"
   #   url: /year-archive/
     

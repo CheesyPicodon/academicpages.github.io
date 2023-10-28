@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[**Version française**](/french/french.html)
+[**Version française**](/french/)
 
 I received my Ph.D. in Mathematics and Applied Mathematics from Institut Camille Jordan, University of Lyon. My manuscript can be found [here](/files/manuscrit_chih-kang_huang.pdf). 
 My thesis supervisers are [Olivier Druet](http://math.univ-lyon1.fr/homes-www/druet/) (CNRS) and [Simon Masnou](http://math.univ-lyon1.fr/homes-www/masnou/) (Institut Camille Jordan).
@@ -30,8 +30,8 @@ Publications
 
 Transversal Projects in Data Science and Machine Learning
 ======
-* [How to determinate if two real estates correspond to the same](/files/real_estate_Chih-Kang_HUANG.ipynb)
-* [Physic-Informed Neural Networks to solve PDEs](/files/PINNs_black-scholes.ipynb)
+* [How to determinate if two real estates correspond to the same](/portfolio/portfolio-1)
+* [Physic-Informed Neural Networks to solve PDEs](/portfolio/portfolio-2)
 * [Chatbot for automated meal order collection](https://github.com/CheesyPicodon/nca-linebot)
 
 
