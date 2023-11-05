@@ -10,7 +10,7 @@ redirect_from:
 
 [**Version française**](/french/)
 
-I received my Ph.D. in Mathematics and Applied Mathematics from Institut Camille Jordan, University of Lyon. My manuscript can be found [here](/files/manuscrit_chih-kang_huang.pdf). 
+I received my Ph.D. in Mathematics and Applied Mathematics from Institut Camille Jordan, University of Lyon. My manuscript can be found [here](https://theses.hal.science/tel-03584255). 
 My thesis supervisers are [Olivier Druet](http://math.univ-lyon1.fr/homes-www/druet/) (CNRS) and [Simon Masnou](http://math.univ-lyon1.fr/homes-www/masnou/) (Institut Camille Jordan).
 
 I just finished my mandatory military and civil service in July 2023. I am currently open to research-driven positions in Data Science/Machine Learning or Quantitative Research.
@@ -25,7 +25,8 @@ Hard Skills
 
 Publications
 ======
-* A thickness-aware Allen-Cahn equation for the mean curvature flow of thin structures, with E. Bretin and S. Masnou
+* [Questions of approximation and compactness for geometric variational problems](https://theses.hal.science/tel-03584255), Thesis, Université de Lyon, 2021
+* [A thickness-aware Allen-Cahn equation for the mean curvature flow of thin structures](https://arxiv.org/abs/2310.10272), with E. Bretin and S. Masnou
 * Asymptotic Analysis of embedded Willmore spheres in 3-dimensional manifolds, in preparation
 
 Transversal Projects in Data Science and Machine Learning
