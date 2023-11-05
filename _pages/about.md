@@ -8,20 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-[**Version française**](/french/)
+<!-- [**Version française**](/french/) -->
 
 I received my Ph.D. in Mathematics and Applied Mathematics from Institut Camille Jordan, University of Lyon. My manuscript can be found [here](https://theses.hal.science/tel-03584255). 
 My thesis supervisers are [Olivier Druet](http://math.univ-lyon1.fr/homes-www/druet/) (CNRS) and [Simon Masnou](http://math.univ-lyon1.fr/homes-www/masnou/) (Institut Camille Jordan).
 
 I just finished my mandatory military and civil service in July 2023. I am currently open to research-driven positions in Data Science/Machine Learning or Quantitative Research.
 
-Hard Skills
-======
-
-* **Mathematics :** Partial Differential Equations in Mathematical Modeling, Numerical Simulations, Optimization, Calculus of Variations, Geometric Analysis 
-* **Programming :** Python (Numpy, Scikit-learn, Pytorch, keras, ...), C++, R, MatLab
-* **Tools :** Latex, Office, Git, Bash  **Cloud :** Heroku, Fly.io, Google Collab
-* **OS :** Linux, Windows, macOS  **Virtualization :** docker, podman
 
 Publications
 ======
@@ -34,6 +27,15 @@ Transversal Projects in Data Science and Machine Learning
 * [How to determinate if two real estates correspond to the same](/portfolio/portfolio-1)
 * [Physic-Informed Neural Networks to solve PDEs](/portfolio/portfolio-2)
 * [Chatbot for automated meal order collection](https://github.com/CheesyPicodon/nca-linebot)
+
+Hard Skills
+======
+
+* **Mathematics :** Partial Differential Equations in Mathematical Modeling, Numerical Simulations, Optimization, Calculus of Variations, Geometric Analysis 
+* **Programming :** Python (Numpy, Scikit-learn, Pytorch,), C++, MatLab
+* **Tools :** Latex, Office, Git, Bash  **Cloud :** Heroku, Fly.io, Google Collab
+* **OS :** Linux, Windows, macOS  **Virtualization :** docker, podman
+
 
 
 
