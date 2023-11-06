@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- [**Version française**](/french/) -->
-
 I received my Ph.D. in Mathematics and Applied Mathematics from Institut Camille Jordan, University of Lyon. My manuscript can be found [here](https://theses.hal.science/tel-03584255). 
 My thesis supervisers are [Olivier Druet](http://math.univ-lyon1.fr/homes-www/druet/) (CNRS) and [Simon Masnou](http://math.univ-lyon1.fr/homes-www/masnou/) (Institut Camille Jordan).
 
