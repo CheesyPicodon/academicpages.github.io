@@ -16,8 +16,8 @@ I just finished my mandatory military and civil service in July 2023. I am curre
 
 Publications
 ======
-* [Questions of approximation and compactness for geometric variational problems](https://theses.hal.science/tel-03584255), Thesis, Université de Lyon, 2021
-* [A thickness-aware Allen-Cahn equation for the mean curvature flow of thin structures](https://arxiv.org/abs/2310.10272), with E. Bretin and S. Masnou
+* Chih-Kang Huang. [**Questions of approximation and compactness for geometric variational problems**](https://theses.hal.science/tel-03584255), Thesis, Université de Lyon, 2021
+* [**A thickness-aware Allen-Cahn equation for the mean curvature flow of thin structures**](https://arxiv.org/abs/2310.10272), with E. Bretin and S. Masnou
 * Asymptotic Analysis of embedded Willmore spheres in 3-dimensional manifolds, in preparation
 
 Transversal Projects in Data Science and Machine Learning
